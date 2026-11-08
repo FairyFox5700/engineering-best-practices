@@ -1,0 +1,9 @@
+# Example CODEOWNERS file.
+# Replace with real team/user handles for your org.
+# See docs/documentation-practices.md for details.
+
+# Default owners for everything in this repo
+# *                     @your-org/maintainers
+
+# Docs require doc-focused review
+# /docs/                @your-org/docs-team
